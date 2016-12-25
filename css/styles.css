@@ -1,0 +1,17 @@
+.img
+{
+ 		margin: 0 auto;
+ 	  width:1000px;
+    text-align: center;
+}
+
+.button
+{
+    margin: 0 auto;
+ 	  width:140px;
+    text-align: left;
+    border-color: #2895F1;
+    color: #2895F1;
+    background-color: #FFFFFF;
+
+}
